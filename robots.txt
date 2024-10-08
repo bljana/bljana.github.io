@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bljana.github.io/kRZ/sitemap.kRZ.gz
